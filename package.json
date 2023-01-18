@@ -4,7 +4,8 @@
   "description": "App Base Sample",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "start_dev": "NODE_ENV=development electron ."
   },
   "author": "",
   "license": "ISC",
